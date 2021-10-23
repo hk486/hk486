@@ -6,8 +6,8 @@ I'm **Harmeet Kaur**, Final Year Student.
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Data Structures
+- 😄 Pronouns: she/her
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: ... -->
 
