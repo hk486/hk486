@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Harmeet Kaur**, Final Year Student.
+I'm **Harmeet Kaur**.
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Web Development
